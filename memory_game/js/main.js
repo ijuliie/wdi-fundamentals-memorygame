@@ -52,14 +52,5 @@ function createBoard(){
     }
 }
 
-// function reset(){
-//     for(let i = 0; i < cardsInPlay.length; i++){
-    
-//     }
-// }
-
-// const resetButton = document.getElementById("reset");
-// resetButton.addEventListener("click", reset);
-
 createBoard();
 
